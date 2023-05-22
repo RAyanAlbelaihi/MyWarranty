@@ -10,4 +10,5 @@ consumers can save their warranties and invoices documents for their purchases.
 The objectives of the project can be summarized as follows:
 
 ● Enhancing the concept of warranty for consumers.
+
 ● Helping specific people like “old people” to remember them about the warranties.
